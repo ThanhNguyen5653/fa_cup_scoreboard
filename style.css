@@ -50,11 +50,11 @@ body {
 }
 
 .team-input, .score-input {
-  width: 140px; /* Increased input width */
+  width: 150px; /* Increased input width */
   border: none;
   padding: 20px;
   text-align: center;
-  font-size: 3rem; /* Increased font size */
+  font-size: 2.5rem; /* Increased font size */
   background-color: #DDD0BD;
   color: #000;
 }
